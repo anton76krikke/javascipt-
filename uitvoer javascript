@@ -1,0 +1,36 @@
+GEThttp://127.0.0.1:5500/favicon.ico
+[HTTP/1.1 404 Not Found 0ms]
+
+let name = ('anton')
+undefined
+console.log
+function log()
+
+console.log()
+debugger eval code:1:9
+undefined
+console.log(name)
+anton debugger eval code:1:9
+undefined
+4+4
+8
+4%8
+4
+6*6
+36
+let age = (45)
+undefined
+typeof age
+"number"
+let age = ("46")
+Uncaught SyntaxError: redeclaration of let age
+    <anonymous> debugger eval code:1
+debugger eval code:1:1
+let age = ("vijfendertig")
+Uncaught SyntaxError: redeclaration of let age
+    <anonymous> debugger eval code:1
+debugger eval code:1:1
+age = ('vijfendertig')
+"vijfendertig"
+typeof (age)
+"string"
